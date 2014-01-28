@@ -24,16 +24,16 @@ public class FibonacciTest {
 
   @Test
   public void fibZero() {
-    assertEquals(1, fibonacci.fibonacci(0));
+    assertEquals(0, fibonacci.fibonacci(0));
   }
 
   @Test
   public void fibOne() {
-    assertEquals(1, fibonacci.fibonacci(1));
+    assertEquals(4, fibonacci.fibonacci(1));
   }
 
   @Test
   public void fibTwo() {
-    assertEquals(0, fibonacci.fibonacci(2));
+    assertEquals(1, fibonacci.fibonacci(2));
   }
 }
