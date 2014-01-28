@@ -29,7 +29,7 @@ public class FibonacciTest {
 
   @Test
   public void fibOne() {
-    assertEquals(4, fibonacci.fibonacci(1));
+    assertEquals(1, fibonacci.fibonacci(1));
   }
 
   @Test
