@@ -24,7 +24,7 @@ public class FibonacciTest {
 
   @Test
   public void fibZero() {
-    assertEquals(0, fibonacci.fibonacci(0));
+    assertEquals(1, fibonacci.fibonacci(0));
   }
 
   @Test
