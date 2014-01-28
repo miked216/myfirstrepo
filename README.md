@@ -1,4 +1,4 @@
 myfirstrepo
 ===========
 
-Firs tRepo for playing about
+First repo for playing about
