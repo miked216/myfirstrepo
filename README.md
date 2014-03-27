@@ -12,5 +12,3 @@ Now with more text!
 More UI Changes
 
 Even more UI changes
-
-More local changes
