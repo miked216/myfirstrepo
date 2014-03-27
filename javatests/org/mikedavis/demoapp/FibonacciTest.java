@@ -34,6 +34,6 @@ public class FibonacciTest {
 
   @Test
   public void fibTwo() {
-    assertEquals(0, fibonacci.fibonacci(2));
+    assertEquals(1, fibonacci.fibonacci(2));
   }
 }
